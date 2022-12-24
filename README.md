@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shyammondal919
 - 👀 I’m interested in programing in different languages.
 - 🌱 I’m currently learning c++
-- 
+- started learning python
 - 
 
 <!---
